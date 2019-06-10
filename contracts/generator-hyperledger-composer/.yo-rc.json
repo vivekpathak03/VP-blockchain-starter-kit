@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Vivek",
+      "authorEmail": "vpathak@deloitte.com",
+      "authorUrl": ""
+    }
+  }
+}
